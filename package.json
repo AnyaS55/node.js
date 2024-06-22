@@ -1,0 +1,31 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Anya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnyaS55/node.js.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Anna Sedova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnyaS55/node.js/issues"
+  },
+  "homepage": "https://github.com/AnyaS55/node.js#readme",
+  "devDependencies": {
+    "beautify": "^0.0.8",
+    "cypress": "^13.12.0",
+    "eslint": "^9.5.0",
+    "eslint-config-defaults": "^9.0.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.3",
+    "prettier": "^3.3.2"
+  }
+}
